@@ -1,2 +1,2 @@
-# goit-markup-hw-08
-HomeWork 8. Created by Peregonchuk Oleksii. Kyiv, Ukraine.
+# goit-markup-hw-02
+HomeWork 2. Created by Peregonchuk Oleksii. Kyiv, Ukraine.
